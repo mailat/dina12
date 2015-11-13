@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">Dina12</string>
+	<string name="hello_world">Hello World!</string>
+	<string name="msg_sent">Question sent</string>
+</resources>

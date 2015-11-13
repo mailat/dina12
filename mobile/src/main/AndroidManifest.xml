@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="uk.droidcon.dina12"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<uses-permission android:name="android.permission.NFC"/>
+	<uses-permission android:name="android.permission.WAKE_LOCK"/>
+	<uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+	<!-- AUDI STUFF -->
+	<uses-permission android:name="de.esolutions.sdis.provider.remote.READ_PROVIDER" />
+	<uses-permission android:name="de.esolutions.sdis.provider.remote.WRITE_PROVIDER" />
+
+    <application
+		android:allowBackup="true"
+		android:icon="@mipmap/ic_launcher"
+		android:label="@string/app_name"
+		android:supportsRtl="true"
+		android:theme="@style/AppTheme"
+		android:name=".DinaApplication">
+
+		<activity android:name=".MainActivity">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN"/>
+
+				<category android:name="android.intent.category.LAUNCHER"/>
+			</intent-filter>
+		</activity>
+
+		<activity android:name=".GameActivity"/>
+
+		<activity android:name=".GameClientActivity"
+			android:screenOrientation="sensorLandscape"/>
+
+		<activity
+			android:name=".RegistrationActivity"
+			android:parentActivityName=".MainActivity"
+			android:screenOrientation="sensorLandscape">
+			<meta-data
+				android:name="android.support.PARENT_ACTIVITY"
+				android:value=".MainActivity"/>
+		</activity>
+	</application>
+</manifest>

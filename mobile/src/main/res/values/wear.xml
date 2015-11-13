@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="android_wear_capabilities">
+        <!-- declaring that phone provides moderate_questions capability -->
+        <item>moderate_questions</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,1 @@
+include ':mobile', ':wear', ':auditablet-release', ':contentProviderLib-release', ':contentprovidercarmock'
