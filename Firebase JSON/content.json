@@ -1,0 +1,64 @@
+{
+    "questions": {
+        "mathematics": {
+            "1": {
+                "correct_answer": "image_left",
+                "image_left": "http://appsrise.net/api/dina12/q/android8.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/android5.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img1.mp3",
+                "question_text": "How many Androids are in the image ?"
+            },
+            "2": {
+                "correct_answer": "image_right",
+                "image_left": "http://appsrise.net/api/dina12/q/chet5.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/chet8.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img2.mp3",
+                "question_text": "How many Chets can you see ?"
+            },
+            "3": {
+                "correct_answer": "image_left",
+                "image_left": "http://appsrise.net/api/dina12/q/dogs60.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/dogs70.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img3.mp3",
+                "question_text": "How many dogs can you see ?"
+            }
+        },
+        "fun": {
+            "1": {
+                "correct_answer": "image_left",
+                "image_left": "http://appsrise.net/api/dina12/q/donald.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/fifa.jpg",
+                "question_mp3": "http://appsrise.net/api/dina12/img4.mp3",
+                "question_text": "Who is the correct guy here ?"
+            },
+            "2": {
+                "correct_answer": "image_right",
+                "image_left": "http://appsrise.net/api/dina12/q/bookssmall.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/chet.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img5.mp3",
+                "question_text": "How you can earn money ?"
+            },
+            "3": {
+                "correct_answer": "image_right",
+                "image_left": "http://appsrise.net/api/dina12/q/booksbig.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/chet.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img5.mp3",
+                "question_text": "How you can earn more money ?"
+            },
+            "4": {
+                "correct_answer": "image_left",
+                "image_left": "http://appsrise.net/api/dina12/q/manny.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/barbie.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img1.mp3",
+                "question_text": "Who is speaking spanish ?"
+            },
+            "5": {
+                "correct_answer": "image_right",
+                "image_left": "http://appsrise.net/api/dina12/q/pisa.jpg",
+                "image_right": "http://appsrise.net/api/dina12/q/towerlondon.jpg",
+                "question_mp3": "http://appsrise.net/dina12/img2.mp3",
+                "question_text": "Which tower is in London ?"
+            }                       
+        }
+    }
+}
