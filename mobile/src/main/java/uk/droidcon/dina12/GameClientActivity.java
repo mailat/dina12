@@ -108,16 +108,11 @@ public class GameClientActivity extends AppCompatActivity {
           mCorrectQuestions++;
 
           if (mCorrectQuestions % 3 == 0) {
-              new TracksDialog().show(getSupportFragmentManager(), "winnersDialog");
+              //TODO nothing for the moment
           }
         }
         mIsNewQuestion = false;
     }
 
-    @OnLongClick(R.id.game_question_text)
-    public boolean questionClick() {
-        new TracksDialog().show(getSupportFragmentManager(), "winnersDialog");
-        return true;
-    }
 
 }

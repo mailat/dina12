@@ -5,8 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import de.esolutions.applibs.provider.Config;
-import uk.droidcon.dina12.media.AudiController;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,16 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
     ButterKnife.bind(this);
 
-    Config.ENABLE_MOCK_PROVIDERS = true;
-    //if (true) {
-    //  return;
-    //}
 
-    if (AudiController.getInstance(this).isHost()) {
-      startActivity(new Intent(this, GameActivity.class));
-    } else {
+
+
+    //  startActivity(new Intent(this, GameActivity.class));
       startActivity(new Intent(this, RegistrationActivity.class));
-    }
     finish();
   }
 

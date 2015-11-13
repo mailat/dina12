@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0-26e69ed7b771ae5d1eb0109a0ef5255b206faf60.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/classes-ee0d4589898eae4c231fa5d7cd3ef826320a2a5e.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/classes-8c133c8b377ca3007feaacd035d117e93cb36f8a.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0-b5d15b2b50685de8f6eb8f1d788246a2f5d2b399.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-7a67080ad6bb5e9ff68eebb9476bc8eea5aae11e.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/classes-1f7dd1619a1d7574f6aa53012440fdb417ee212b.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-91f13c1a59497900fd0c5ca9f18ca1766a7d8bf0.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/classes-4c91d6adef51d9045a9808b47bd4d82bb80ad94d.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-6973eee84bed2557a74f16f2b5719d6ddc107a96.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/butterknife-7.0.1-ad64cb7ac3e8b337023a31f1ff3f6cf4ad231245.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-462584920bb43859051b3b8490fcc21322a42119.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/classes-55abb0a77aa14dce2ba8f4f4e39f8a6e9dddf4ac.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/glide-3.6.1-fc4773afe95f690c8679cbdfeab216c447540278.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/tubesock-0.0.12-4e29dc13bd9bd70f9a388c9a87f249c9809217b7.jar" />
+    </item>
+    <item
+        jar="/Users/mailat/Work/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/mailat/Work/Git/Droidcon Hack/dina12/mobile/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-62fb3d0d9b106423c2345964ac47ecc8d3f21d94.jar" />
+    </item>
+
+</items>

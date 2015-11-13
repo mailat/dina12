@@ -74,7 +74,6 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/dina12/contentProviderLib-release/unspecified/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/pre-dexed" />
@@ -101,9 +100,5 @@
     <orderEntry type="library" exported="" name="glide-3.6.1" level="project" />
     <orderEntry type="library" exported="" name="appcompat-v7-23.1.0" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.1.0" level="project" />
-    <orderEntry type="module" module-name="auditablet-release" exported="" />
-    <orderEntry type="module" module-name="contentProviderLib-release" exported="" />
-    <orderEntry type="library" exported="" name="auditablet-release-unspecified" level="project" />
-    <orderEntry type="library" exported="" name="contentProviderLib-release-unspecified" level="project" />
   </component>
 </module>
